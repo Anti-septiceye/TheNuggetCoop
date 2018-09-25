@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  text-align: center;
+  background-color: #fffe9b;
+  color:black;
+}
+
+@font-face {
+  font-family: "Kingthings-Trypewriter-2";
+  src: url("Kingthings-Trypewriter-2.ttf");
+}
+
+h3 {
+  font-family: "Kingthings-Trypewriter-2";
+}
+
+h1 {
+  font-family: "Kingthings-Trypewriter-2";
+}
