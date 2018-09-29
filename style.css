@@ -38,6 +38,12 @@ h1 {
   top: 328px;
 }
 
+#twitter {
+  position: fixed;
+  right: 213px;
+  top: 328px;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #000;
@@ -53,12 +59,12 @@ h1 {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #e8d900;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #c99000;
+  background-color: #e8d900;
   color: white;
 }
 
