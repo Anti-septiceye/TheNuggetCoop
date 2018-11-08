@@ -46,7 +46,7 @@ h1 {
 
 .topnav {
   overflow: hidden;
-  background-color: #000;
+  background-color: #e8d900;
 }
 
 .topnav a {
@@ -64,8 +64,8 @@ h1 {
 }
 
 .topnav a.active {
-  background-color: #e8d900;
-  color: black;
+  background-color: #000;
+  color: white;
 }
 
   .dropdown-content {
