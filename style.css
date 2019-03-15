@@ -64,8 +64,8 @@ h1 {
 }
 
 .topnav a.active {
-  background-color: #000;
-  color: white;
+  background-color: #00D5FF;
+  color: black;
 }
 
   .dropdown-content {
